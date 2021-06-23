@@ -4,7 +4,7 @@
 
 ### * Aula guiada, passo-a-passo, pela plataforma da DIO;
 ### * Foi usado React Native através do App Expo Go;
-### * Deixei como um modelo simples de CV com links para as redes sociaise espaço para informações.
+### * Deixei como um modelo simples de CV com links para as redes sociais e espaço para informações.
 
 
 :rocket::rocket::rocket:
